@@ -39,7 +39,7 @@ p_client = PickleClient("http://127.0.0.1:12138", SECRET_KEY="blahblahblah")
 ```
 
 Dumping and Loading some Data:
-```
+```py
 data = p_client.load('test.db')
 print("here is the loaded data:")
 print(data)
