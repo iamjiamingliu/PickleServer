@@ -1,13 +1,12 @@
 # PickleServer
 A package that offers Client-Server operations for Pickling any python data
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Pickle Server is a open source, pure python package that offers client-server operatiosn for pickling python data.
-
 - Uses Flask for running server, Pickle for pickling data
 - 100 % Python
 - Super Reliable
+
+## Download the Package
+The module will be uploaded to Pip. At the moment, you can still enjoy it by directing downloading the folder on github and play around with it :)
 
 ## Features
 
